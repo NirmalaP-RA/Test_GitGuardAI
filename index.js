@@ -22,4 +22,4 @@ try {
 }
 
 // The server from app.js will now start because it was required above
-console.log("App module loaded. Server should be listening on port 3000...");
+// console.log("App module loaded. Server should be listening on port 3000...");
